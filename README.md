@@ -24,7 +24,7 @@ Integrantes do Grupo:
 * Sensor de Fumaça MX-2
 * 2x Resistor 10Kohms
 * 1x Resistor 1Kohms
-* Conversor 3v3 -> 5v
+* Conversor 3v3 -> 5v (Buffer birecional)
 
 ### Serviços Web Utilizados
 
