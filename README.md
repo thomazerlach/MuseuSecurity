@@ -22,8 +22,8 @@ Integrantes do Grupo:
 * LED RGB
 * Sensor de THT11
 * Sensor de Fumaça MX-2
-* 2x Resistor 103ohms
-* 1x Resistor 102ohms
+* 2x Resistor 10Kohms
+* 1x Resistor 1Kohms
 * Conversor 3v3 -> 5v
 
 ### Serviços Web Utilizados
